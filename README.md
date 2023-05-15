@@ -3,9 +3,10 @@
 <h2>Tenants from a Decade in Tech</h2>
 <ul>
   <li>Listen</li>
+  <li>Be firm, be kind</li>
   <li>Advise with confidence</li>
   <li>RTFM before attempting to DIY</li>
-  <li>Break things before asking how</li>
+  <li>If the deal is large, involve a higher up</li>
   <li>Hard work is a non-negotiable pre-requisite to smart work</li>
   <li>Create technical documentations to use when training a new co-worker</li>
   <li>Use Evernote, and Excel since there isn't a need to overcomplicate project management</li>
