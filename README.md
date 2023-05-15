@@ -3,33 +3,24 @@
 <h2>Tenants from a Decade in Tech</h2>
 <ul>
   <li>Listen</li>
-  <li>Be firm, be kind</li>
   <li>Advise with confidence</li>
-  <li>RTFM before attempting to DIY</li>
   <li>Hard work is a non-negotiable pre-requisite to smart work</li>
-  <li>Create technical documentations before training a new co-worker</li>
   <li>If the deal is large, involve a higher up ie executive or senior engineer</li>
   <li>Use Evernote, and Excel since there isn't a need to overcomplicate project management</li>
 </ul>
   
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 
-<h2>Contact</h2>
+
+<h2>📫 How to reach me:</h2>
   <ul>
     <li><b>jesstechpro@gmail.com</b></li>
     <li><b>+1 (305) 771-4686‬</b></li>
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+  </ul>
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -37,7 +28,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
