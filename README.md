@@ -6,7 +6,7 @@
   <li>Be firm, be kind</li>
   <li>Advise with confidence</li>
   <li>RTFM before attempting to DIY</li>
-  <li>If the deal is large, involve a higher up</li>
+  <li>If the deal is large, involve a higher up ie executive or senior engineer</li>
   <li>Hard work is a non-negotiable pre-requisite to smart work</li>
   <li>Create technical documentations before training a new co-worker</li>
   <li>Use Evernote, and Excel since there isn't a need to overcomplicate project management</li>
