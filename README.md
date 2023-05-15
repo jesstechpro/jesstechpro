@@ -7,8 +7,9 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Contact</h2>
-  <b>jesstechpro@gmail.com</b>
-  <b>+1 (305) 771-4686‬</b>
+  <ul>
+    <li><b>jesstechpro@gmail.com</b></li>
+    <li><b>+1 (305) 771-4686‬</b></li>
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
