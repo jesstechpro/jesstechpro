@@ -1,6 +1,17 @@
-<h1>Hi, I'm Jess! <br/>
-<!--<a href="https://github.com/jesstechpro">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
--->
+<h1>Hi, I'm Jess! </h1>
+
+<h2>Tenants from a Decade in Tech</h2>
+<ul>
+  <li>Hard work is a non-negotiable pre-requisite to smart work</li>
+  <li>Create technical documentations to use when training a new co-worker</li>
+  <li>RTFM before attempting to DIY</li>
+  <li>Listen</li>
+  <li>Advise with confidence</li>
+  <li>Break things before asking how</li>
+  <li>Do the important things first</li>
+  <li>Use Evernote, and Excel since there isn't a need to overcomplicate project management</li>
+</ul>
+  
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
