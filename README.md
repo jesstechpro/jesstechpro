@@ -2,8 +2,7 @@
 
 <h2>Tenants from a Decade in Tech</h2>
 <ul>
-  <li>Listen</li>
-  <li>Advise with confidence</li>
+  <li>Advise with competent confidence</li>
   <li>Hard work is a non-negotiable, pre-requisite to smart work</li>
   <li>If the deal is large, involve a higher up ie executive or senior engineer</li>
   <li>Use Evernote, and Excel since there isn't a need to overcomplicate project management</li>
